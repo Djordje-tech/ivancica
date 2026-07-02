@@ -1,0 +1,10 @@
+{
+  "name": "kod-dancice-masaza",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kod Dančice — sajt salona za masažu u Banjoj Luci",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}
